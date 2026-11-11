@@ -58,7 +58,7 @@ export function Navigation() {
         {/* Logo */}
         <a href="#" className="flex items-center gap-1 font-mono text-lg font-bold text-zinc-100">
           <span className="text-emerald-500">{">"}</span>
-          yeabsira.dev
+          nbayeabsira
           <span className="inline-block w-2 h-5 bg-emerald-500 animate-pulse ml-0.5" />
         </a>
 

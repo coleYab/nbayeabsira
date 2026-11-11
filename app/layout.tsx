@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yeabsira Moges – Backend Developer",
+  title: "Yeabsira - Backend Developer",
   description:
     "Backend software developer building high-performance systems, storage engines and APIs.",
 };

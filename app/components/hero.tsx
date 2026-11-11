@@ -15,14 +15,18 @@ export function Hero() {
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 text-center">
         {/* Role title */}
-        <p className="font-mono text-sm font-medium tracking-widest text-emerald-400 uppercase">
+        {/* <p className="font-mono text-sm font-medium tracking-widest text-emerald-400 uppercase">
           Backend Developer &bull; Systems Engineer
-        </p>
+        </p> */}
 
         {/* Heading */}
         <h1 className="text-5xl font-bold tracking-tight text-zinc-50 sm:text-7xl">
           {resumeData.name}
         </h1>
+
+        <h2 className="text-4xl font-italic tracking-tight text-zinc-50 sm:text-5xl">
+        Backend Developer
+        </h2>
 
         {/* Subtitle */}
         <p className="max-w-2xl text-lg leading-relaxed text-zinc-400">
